@@ -1,5 +1,6 @@
 # First-Principles Quantum Hydrodynamics, Chiral Spin-2 Gravitons, Primordial Nucleosynthesis, and Dual Empirical Calibration of the Cosmic Superfluid Crystallization Threshold ($\chi_{\text{crit}}$)
 [![DOI](https://zenodo.org/badge/1466946412.svg)](https://doi.org/10.5281/zenodo.24430134)
+
 **Author:** Ehab Mohamed Abdel Gwad Manse  
 **Affiliation:** Independent Theoretical Physics Researcher, Cairo, Egypt  
 **ORCID:** [0009-0009-4846-6188](https://orcid.org)  
